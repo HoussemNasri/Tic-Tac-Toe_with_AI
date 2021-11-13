@@ -2,4 +2,4 @@
 I completed this project as part of [Hyperskill](https://hyperskill.org/projects/81)
 ## General Information
 - **Time Spent:** 8~9 hours
-- **Diffuculty:** Medium
+- **Diffuculty:** Easy
